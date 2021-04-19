@@ -8,6 +8,7 @@ Shanghai Rao city chain home network transaction second-hand housing data analys
   每个月的成交额情况，
   每个月的成交量情况，
   成交数量排名在前15的小区，
+  房源售价分布情况,
   房源面积出售情况，
   房源面积和出售价格的关系，
   楼层、装修、朝向的占比分布，
