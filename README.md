@@ -1,15 +1,13 @@
 # second-hand-housing-data-analysis
 Shanghai Rao city chain home network transaction second-hand housing data analysis
-1.抓取二手房数据（xpath方法解析），抓取2020年8月至今的交易数据，
-  保存csv数据["成交小区", "成交价(万元)", "成交楼层", "单价每平（元）", "朝向","成交时间"]；
-2.进行数据清洗，
-  缺失值、重复值、异常值、转化格式、字段切分；
-3.数据探索和可视化，
-  每个月的成交额情况，
-  每个月的成交量情况，
-  成交数量排名在前15的小区，
-  房源售价分布情况,
-  房源面积出售情况，
-  房源面积和出售价格的关系，
-  楼层、装修、朝向的占比分布，
-  房屋户型分布。
+1. Grab second-hand housing data (xpath method analysis), grab transaction data from August 2020 to date, Save csv data ("deal cell", "deal price (million yuan)," "deal floor",  "unit price per flat (yuan)," "towards", "deal time");
+2. Data cleaning, missing values, duplicate values, outliers, conversion format, field segmentation;
+3. Data exploration and visualization:
+  monthly turnover,
+  monthly turnover, 
+  The number of transactions ranked in the top 15 neighborhoods,
+  housing price distribution, 
+  housing area sales,
+  housing area and sale price relationship,
+  floor, decoration, orientation of the proportion of distribution,
+  housing distribution.
